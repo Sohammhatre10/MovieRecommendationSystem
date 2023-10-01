@@ -1,4 +1,4 @@
-#Movie Recommendation using Machine Learning
+# Movie Recommendation using Machine Learning
 Steps - 
   1) **Download the datasets**
   2) **Open the MovieRecommendation.ipynb file**
